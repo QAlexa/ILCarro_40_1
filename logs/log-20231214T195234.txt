@@ -1,0 +1,18 @@
+19:52:37 INFO  TestBase - Method loginPositive is started
+19:52:37 INFO  manager.WdListener - Start searching element-----> By.xpath: //a[.=' Logout ']
+19:52:42 INFO  manager.WdListener - Element with locator----> By.xpath: //a[.=' Logout ']  is found
+19:52:42 INFO  manager.TestNgListener - TestloginPositive invoked
+19:52:42 INFO  manager.WdListener - Start searching element-----> By.xpath: //a[.=' Log in ']
+19:52:42 INFO  manager.WdListener - Element with locator----> By.xpath: //a[.=' Log in ']  is found
+19:52:42 INFO  manager.WdListener - Start searching element-----> By.xpath: //input[@id='email']
+19:52:42 INFO  manager.WdListener - Element with locator----> By.xpath: //input[@id='email']  is found
+19:52:43 INFO  manager.WdListener - Start searching element-----> By.xpath: //input[@id='password']
+19:52:43 INFO  manager.WdListener - Element with locator----> By.xpath: //input[@id='password']  is found
+19:52:43 INFO  manager.WdListener - Start searching element-----> By.xpath: //button[@type='submit']
+19:52:43 INFO  manager.WdListener - Element with locator----> By.xpath: //button[@type='submit']  is found
+19:52:43 INFO  manager.WdListener - Start searching element-----> By.xpath: //h2[contains(text(),'success')]
+19:52:44 INFO  manager.WdListener - Element with locator----> By.xpath: //h2[contains(text(),'success')]  is found
+19:52:44 INFO  manager.TestNgListener - TestloginPositivesuccessfull
+19:52:44 INFO  manager.WdListener - Start searching element-----> By.xpath: //button[.='Ok']
+19:52:44 INFO  manager.WdListener - Element with locator----> By.xpath: //button[.='Ok']  is found
+19:52:44 INFO  TestBase - =================================================

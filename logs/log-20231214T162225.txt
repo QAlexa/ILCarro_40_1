@@ -1,0 +1,2 @@
+16:22:28 INFO  TestBase - Method loginPositiveUser is started
+16:22:35 INFO  TestBase - =================================================

@@ -1,0 +1,4 @@
+13:45:30 INFO  TestBase - openRegistrationForm invoked
+13:45:31 INFO  TestBase - fillRegistrationForm invoked
+13:45:31 INFO  TestBase - submitLogin invoked
+13:45:31 INFO  TestBase - registrationpositive starts with credentials: login: John2730@gmail.com  password: $Asdf1234
